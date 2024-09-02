@@ -10,5 +10,5 @@ First discuss about how you can start with it,
 4. make sure you r inside the folder that you created(in my case it is GoFood)..on terminal
 5. Run this commmand: npx create-react-app mernapp(appname)   , click enter (will take some time to install necessary packages.
 6. now come to the app folder by typing: cd mernapp press enter, then npm start, press enter
-7. take time to build...your react app run.
+7. will take time to build...your react app run.
 8. 
